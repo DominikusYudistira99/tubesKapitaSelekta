@@ -18,7 +18,7 @@ module.exports = {
       chainId: 1337
     },
     goerli: {
-      url: "",
+      url: ALCHEMY_HTTPS_KEY,
       accounts: [ 
         "" 
       ]
